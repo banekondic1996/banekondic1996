@@ -1,5 +1,6 @@
 ⚡ Just a countdown: <a href="https://banekondic1996.github.io">Link</a><br>
 ⚡ My youtube channel: <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Link</a>
+![](https://komarev.com/ghpvc/?username=banekondic1996&label=PROFILE+VIEWS)
 <pre>Languages that i believe are good to learn: C, Rust, Julia, Java, Python and maybe Q# for future
 Rust + WebAssebly + Julia are the future with new Web Apps, of course with javascript :)
 C cause it fast and direct, you can writte drivers and create whatever you want
