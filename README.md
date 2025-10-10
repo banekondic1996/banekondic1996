@@ -13,6 +13,6 @@ Java cause it's flexible for things to get things done and your not bound to Win
 Python cause it's popular and easy (I don't like it because of indentions and speed, try Cython for speed)
 WebAssembly is the future
 What i like:
--Javascript (Angular and React)
+-Javascript (I don't like React, i prefer Angular or no framework at all)
 -WASM
 </pre>
