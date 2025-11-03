@@ -60,7 +60,7 @@
   <td></td> 
   <td> xixxMxchML </td>
   <td> Android Photo gallery with uploading to private server, image classification, image pinning futures (hidden repo) </td>
-  <td><a></a></td>
+  <td><a href="https://www.youtube.com/watch?v=ooa2sYz1kkA"></a>Link</td>
 </tr>
 </table>
 <br>
