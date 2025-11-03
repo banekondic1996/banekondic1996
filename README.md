@@ -4,15 +4,31 @@
 ⚡ Just a countdown: <a href="https://banekondic1996.github.io">Link</a><br>
 ⚡ My youtube channel: <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Link</a>
 
-<pre>Languages that i believe are good to learn: C, Rust, Julia, Java, Python and maybe Q# for future
-Rust + WebAssebly + Julia are the future with new Web Apps, of course with javascript :)
-C cause it fast and direct, you can writte drivers and create whatever you want
-Rust cause it future replacment for C with added benefits
-Julia cause it's faster then Python for data analysis
-Java cause it's flexible for things to get things done and your not bound to Windows
-Python cause it's popular and easy (I don't like it because of indentions and speed, try Cython for speed)
-WebAssembly is the future
-What i like:
--Javascript (I don't like React, i prefer Angular or no framework at all)
--WASM
-</pre>
+**Some projects:**
+
+<table>
+<tr>
+  <td><img width="38" height="auto" alt="Elve Terminal EE" src="https://github.com/user-attachments/assets/b3ade798-01fe-4f30-96b2-aa524476716c" /></td> 
+  <td> Elve Terminal </td> 
+  <td><a href="https://github.com/banekondic1996/Elve-Terminal">Link</a></td>
+</tr>
+<tr>
+  <td><img width="38" height="auto" alt="Elve System Monitor" src="https://github.com/user-attachments/assets/97021d33-ca42-433c-a9da-41adfd1f648e" /></td>
+  <td> Elve System Monitor </td>
+  <td><a href="https://github.com/banekondic1996/Elve-Terminal">Link</a></td>
+</tr>
+<tr>
+<td><img width="38" height="auto" alt="Elve System Monitor" src="https://github.com/user-attachments/assets/27ba4310-c787-4c6b-a88f-e5c8d55cea44" /></td>
+  <td> Elve Package Manager </td>
+  <td><a href="https://github.com/banekondic1996/Elve-package-manager">Link</a></td>
+</tr>
+<tr>
+  <td><img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/f55e11be-1ae7-4743-bd32-ac46a8e6dc57" /></td>
+  <td> Melo Media Player </td> <td><a href="https://github.com/banekondic1996/Melo-MediaPlayer">Link</a></td>
+</tr>
+<tr>
+  <td><img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/f24a715b-8791-41c8-bb93-8dc40bbd94ae" /></td>
+  <td> Elve Desktop (Windows & Linux) </td>
+  <td><a href="https://github.com/banekondic1996/Elve-Desktop/tree/dev">Link</a></td>
+</tr>
+</table>
