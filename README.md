@@ -56,6 +56,12 @@
   <td>Human gene modeler</td>
   <td><a href="https://github.com/banekondic1996/Symbio3d">Link</a></td>
 </tr>
+  <tr>
+  <td></td> 
+  <td> xixxMxchML </td>
+  <td> Android Photo gallery with uploading to private server, image classification, image pinning futures (hidden repo) </td>
+  <td><a></a></td>
+</tr>
 </table>
 <br>
 
