@@ -1,5 +1,4 @@
 ⚡ Just a countdown: <a href="https://banekondic1996.github.io">Link</a><br>
-⚡ My youtube channel: <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Link</a>
 
 **Some projects:**
 
