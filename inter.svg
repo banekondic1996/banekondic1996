@@ -15,7 +15,7 @@
 
   <!-- layout: each group is 280px wide (gap included) -->
   <!-- Item 1 -->
-  <a xlink:href="https://github.com/banekondic1996/Elve-Terminal" target="_blank" rel="noopener">
+  xmlns:href="https://github.com/banekondic1996/Elve-Terminal" target="_blank" rel="noopener">
     <g class="item" transform="translate(30,12)" role="link" aria-label="Elve Terminal repository">
       <rect class="bg" x="-10" y="-6" width="260" height="56" rx="8" ry="8" />
       <!-- logo image (left) -->
@@ -24,25 +24,23 @@
       <!-- text (vertically centered next to image) -->
       <text class="label" x="56" y="27"><tspan font-weight="700">Elve Terminal</tspan></text>
     </g>
-  </a>
 
   <!-- Item 2 -->
-  <a xlink:href="https://github.com/banekondic1996/Elve-Terminal" target="_blank" rel="noopener">
+  xmlns::href="https://github.com/banekondic1996/Elve-Terminal" target="_blank" rel="noopener">
     <g class="item" transform="translate(320,12)" role="link" aria-label="Elve System Monitor repository">
       <rect class="bg" x="-10" y="-6" width="260" height="56" rx="8" ry="8" />
       <image href="https://github.com/user-attachments/assets/97021d33-ca42-433c-a9da-41adfd1f648e"
              x="0" y="6" width="42" height="42" preserveAspectRatio="xMidYMid slice" />
       <text class="label" x="56" y="27"><tspan font-weight="700">Elve System Monitor</tspan></text>
     </g>
-  </a>
 
   <!-- Item 3 -->
-  <a xlink:href="https://github.com/banekondic1996/Elve-package-manager" target="_blank" rel="noopener">
+  xmlns:href="https://github.com/banekondic1996/Elve-package-manager" target="_blank" rel="noopener">
     <g class="item" transform="translate(610,12)" role="link" aria-label="Elve Package Manager repository">
       <rect class="bg" x="-10" y="-6" width="260" height="56" rx="8" ry="8" />
       <image href="https://github.com/user-attachments/assets/27ba4310-c787-4c6b-a88f-e5c8d55cea44"
              x="0" y="6" width="42" height="42" preserveAspectRatio="xMidYMid slice" />
       <text class="label" x="56" y="27"><tspan font-weight="700">Elve Package Manager</tspan></text>
     </g>
-  </a>
+
 </svg>
