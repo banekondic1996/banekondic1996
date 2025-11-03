@@ -57,5 +57,13 @@
   <td><a href="https://github.com/banekondic1996/Symbio3d">Link</a></td>
 </tr>
 </table>
+<br>
 
-
+**My thoughts:**
+<pre>
+I care about user experience and design and i like the process of creating new things<br>
+I prefer vanilla JS over React, Angular is ok. <br> 
+I'm more creative then logical, so I don't think i will ever be really good programmer.<br>
+There's stuff i wanted to create but i didn't know how to, I need to learn C, C++ or Rust, cause others can't do what i want <br>
+I just use programming langugages as tools to create what i imagine. I also enjoy 3D modeling with Maya
+</pre>
