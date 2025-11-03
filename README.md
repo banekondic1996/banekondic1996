@@ -48,5 +48,15 @@
 </tr>
 </table>
 
+**Hidden or not yet started projects:**
+<table>
+  <tr><th></th><th>Name</th><th>Description</th><th></th></tr> 
+<tr>
+  <td></td> 
+  <td> Symbio 3d </td>
+  <td>Human gene modeler</td>
+  <td><a href="https://github.com/banekondic1996/Symbio3d">Link</a></td>
+</tr>
+</table>
 
 
