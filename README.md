@@ -39,6 +39,12 @@
   <td> Just a desktop shell for Windows and Linux (not finished) </td>
   <td><a href="https://github.com/banekondic1996/Elve-Desktop/tree/dev">Link</a></td>
 </tr>
+  <tr>
+  <td></td>
+  <td> Elve File Manager</td>
+  <td> Just a file manager for Linux (not finished) </td>
+  <td><a href="https://github.com/banekondic1996/Elve-File-Manager">Link</a></td>
+</tr>
 </table>
 
 **Not relavant:**
