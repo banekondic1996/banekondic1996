@@ -22,6 +22,11 @@
   <td> Just a package manager for Linux systems</td>
   <td><a href="https://github.com/banekondic1996/Elve-package-manager">Link</a></td>
 </tr>
+  <td><img width="38" height="auto" alt="Elve System Monitor" src="https://github.com/user-attachments/assets/abea4246-5d73-48da-a0a6-f3eb82fb5927" /></td>
+  <td> Elve Magic Encrypt </td>
+  <td> Just a disk image mounter/encryption app for Linux</td>
+  <td><a href="https://github.com/banekondic1996/Elve-Magic-Encrypt">Link</a></td>
+</tr>
 <tr>
   <td><img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/f55e11be-1ae7-4743-bd32-ac46a8e6dc57" /></td>
   <td> Melo Media Player </td> 
