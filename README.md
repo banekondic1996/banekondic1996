@@ -73,6 +73,18 @@
   <td> NW.JS core launcher/installer for my Elve Desktop and apps </td>
   <td></td>
 </tr>
+      <tr>
+  <td></td> 
+  <td> Elve Docs </td>
+  <td> Spreadsheets viewer and editor </td>
+  <td></td>
+</tr>
+        <tr>
+  <td></td> 
+  <td> Elve FileManager</td>
+  <td> File manager</td>
+  <td></td>
+</tr>
 </table>
 <br>
 
