@@ -22,7 +22,7 @@
   <td> Just a package manager for Linux systems</td>
   <td><a href="https://github.com/banekondic1996/Elve-package-manager">Link</a></td>
 </tr>
-  <td><img width="38" height="auto" alt="Elve System Monitor" src="https://github.com/user-attachments/assets/abea4246-5d73-48da-a0a6-f3eb82fb5927" /></td>
+  <td><img width="38" height="auto" alt="Elve System Monitor" src="https://github.com/user-attachments/assets/50b16d79-3009-41a5-bb4a-fa6d9d36f265" /></td>
   <td> Elve Magic Encrypt </td>
   <td> Just a disk image mounter/encryption app for Linux</td>
   <td><a href="https://github.com/banekondic1996/Elve-Magic-Encrypt">Link</a></td>
