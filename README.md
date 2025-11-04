@@ -40,7 +40,8 @@
   <td><a href="https://github.com/banekondic1996/Elve-Desktop/tree/dev">Link</a></td>
 </tr>
   <tr>
-  <td></td>
+  <td><img width="38" height="38" alt="2ac38d88-1086-4c72-880c-7d39619bdcc1" src="https://github.com/user-attachments/assets/21fa0e8e-b0ff-4bee-9863-476d9f2fe385" />
+</td>
   <td> Elve File Manager</td>
   <td> Just a file manager for Linux (not finished) </td>
   <td><a href="https://github.com/banekondic1996/Elve-File-Manager">Link</a></td>
