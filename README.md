@@ -46,6 +46,12 @@
   <td> Just a file manager for Linux (not finished) </td>
   <td><a href="https://github.com/banekondic1996/Elve-File-Manager">Link</a></td>
 </tr>
+  <tr>
+  <td><img width="38" height="38" alt="imageView2" src="https://github.com/user-attachments/assets/8d476411-8fa3-4143-966a-90b1049d91eb" /></td>
+  <td> Melo Image View </td>
+  <td> Image viewer app for Linux (not finished) </td>
+  <td><a href="https://github.com/banekondic1996/Melo-ImageView/">Link</a></td>
+</tr>
 </table>
 
 **Not relavant:**
@@ -86,12 +92,7 @@
   <td> Spreadsheets viewer and editor </td>
   <td></td>
 </tr>
-        <tr>
-  <td></td> 
-  <td> Elve FileManager</td>
-  <td> File manager</td>
-  <td></td>
-</tr>
+  
 </table>
 <br>
 
