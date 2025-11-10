@@ -63,6 +63,12 @@
   <td>Chrome extension for mass deletetion of Meta/Facebook chat</td>
   <td><a href="https://github.com/banekondic1996/Metalete">Link</a></td>
 </tr>
+  <tr>
+  <td><img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/e616e88a-b585-4efd-9a4c-75fec3416fcf" /></td> 
+  <td> Password Hasher </td>
+  <td>Chrome extension for password hashing</td>
+  <td><a href="https://github.com/banekondic1996/password-hasher-">Link</a></td>
+</tr>
 </table>
 
 **Hidden or not yet started projects:**
