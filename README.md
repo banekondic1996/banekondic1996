@@ -14,7 +14,7 @@
   <td><img width="38" height="auto" alt="Elve System Monitor" src="https://github.com/user-attachments/assets/97021d33-ca42-433c-a9da-41adfd1f648e" /></td>
   <td> Elve System Monitor </td>
   <td> Just a taskmanager for Linux systems </td>
-  <td><a href="https://github.com/banekondic1996/Elve-Taskmanager">Link</a></td>
+  <td><a href="https://github.com/banekondic1996/Elve-SystemMonitor">Link</a></td>
 </tr>
 <tr>
 <td><img width="38" height="auto" alt="Elve System Monitor" src="https://github.com/user-attachments/assets/27ba4310-c787-4c6b-a88f-e5c8d55cea44" /></td>
