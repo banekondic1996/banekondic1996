@@ -33,6 +33,12 @@
   <td> Media Player for Windows and Linux that can also trim and convert videos </td>
   <td><a href="https://github.com/banekondic1996/Melo-MediaPlayer">Link</a></td>
 </tr>
+      <tr>
+  <td><img width="38" height="38" alt="imageView2" src="https://github.com/banekondic1996/Edgy-sidebar/blob/main/edgylogo.png" /></td>
+  <td> Edgy sidebar (Windows) </td>
+  <td> Edge sidebar clone I made in 2022 for random discord person, but haven't posted it </td>
+  <td><a href="https://github.com/banekondic1996/Edgy-sidebar">Link</a></td>
+</tr>
 <tr>
   <td><img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/f24a715b-8791-41c8-bb93-8dc40bbd94ae" /></td>
   <td> Elve Desktop (Windows & Linux) </td>
