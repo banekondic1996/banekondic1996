@@ -27,6 +27,12 @@
   <td> Just a disk image mounter/encryption app for Linux</td>
   <td><a href="https://github.com/banekondic1996/Elve-Magic-Encrypt">Link</a></td>
 </tr>
+  </tr>
+  <td><img width="38" height="auto" alt="Elve File Sorter" src="https://github.com/user-attachments/assets/5bb0f5e9-6eda-44d8-bb28-7014bfaf24c7" /></td>
+  <td> Elve File Sorter </td>
+  <td> Just a file sorting app for Linux</td>
+  <td><a href="https://github.com/banekondic1996/Elve-FileSorter">Link</a></td>
+</tr>
 <tr>
   <td><img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/f55e11be-1ae7-4743-bd32-ac46a8e6dc57" /></td>
   <td> Melo Media Player </td> 
