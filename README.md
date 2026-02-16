@@ -1,4 +1,4 @@
-⚡ Just a countdown: <a href="https://banekondic1996.github.io">Link</a><br>
+Blog: <a href="https://banekondic1996.github.io">Link</a><br>
 
 **Some projects:**
 
