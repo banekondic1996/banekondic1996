@@ -1,4 +1,4 @@
-<a align="center"  href="https://banekondic1996.github.io">![clippy-white-6-ezgif com-crop](https://github.com/user-attachments/assets/14167973-444b-40c5-b083-930139215181)
+<a align="center"  href="https://banekondic1996.github.io">![clippy-white-6-ezgif com-resize](https://github.com/user-attachments/assets/55853b5e-e073-469e-82dd-39a3aae238ea)
 </a>
 
 **Some projects:**
