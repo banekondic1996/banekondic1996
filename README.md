@@ -1,4 +1,5 @@
-<a align="center"  href="https://banekondic1996.github.io"><img width="5200" height="205" alt="blogbt" src="https://github.com/user-attachments/assets/97b48a3b-e52a-46fe-ba66-120063f27168" />
+<a align="center"  href="https://banekondic1996.github.io">![animated_button_glow](https://github.com/user-attachments/assets/224f454c-b504-438d-a18c-c99f8bbac7e5)
+
 </a>
 
 **Some projects:**
