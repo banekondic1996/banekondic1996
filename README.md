@@ -1,4 +1,4 @@
-<a align="center"  href="https://banekondic1996.github.io">![animated_button_glow_final](https://github.com/user-attachments/assets/ab6e7e8a-6ae4-42be-893e-1f5d2048244b)
+<a align="center"  href="https://banekondic1996.github.io">![ezgif com-gif-maker](https://github.com/user-attachments/assets/20d10efd-e7d5-4a8d-9f85-3426c5fc9796)
 </a>
 
 **Some projects:**
