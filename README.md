@@ -92,7 +92,7 @@
   <tr>
   <td><img width="32" height="32" alt="Symbio3D" src="https://github.com/banekondic1996/Symbio3d/blob/main/Symbio3D.png?raw=true" /></td> 
   <td> Symbio 3d </td>
-  <td>Human gene modeler - 3D Human Trait Visualizer - **Concept**</td>
+  <td>Human gene modeler - 3D Human Trait Visualizer (Concept!!!)*</td>
   <td><a href="https://github.com/banekondic1996/Symbio3d">Link</a></td>
 </tr>
 </table>
