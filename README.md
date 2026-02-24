@@ -1,8 +1,9 @@
 <a align="center"  href="https://banekondic1996.github.io">![clippy-white-6-ezgif com-resize](https://github.com/user-attachments/assets/55853b5e-e073-469e-82dd-39a3aae238ea)
 </a>
 
-**Some projects:**
-
+Personally using daily and recommending:<br>
+System Monitor, File Sorter (it's amazing), Melo Player (for watching regular videos), Extended History extension <br><br>
+**Some projects:** <br>
 <table>
   <tr><th></th><th>Name</th><th>Description</th><th></th></tr>
 <tr>
