@@ -67,7 +67,7 @@ System Monitor, File Sorter (it's amazing), Melo Player (for watching regular vi
   <td><a href="https://github.com/banekondic1996/Melo-ImageView/">Link</a></td>
 </tr>
   <tr>
-  <td><img width="38" height="38" alt="imageView2" src="https://github.com/banekondic1996/Extended-History---Chrome/blob/main/icons/icon48.png" /></td>
+  <td><img width="38" height="38" alt="imageView2" src="https://github.com/banekondic1996/Extended-History---Chrome/blob/main/icons/icon128.png" /></td>
   <td> Extended History - Chrome</td>
   <td> Chrome extension for better history view + storing more then 90 days of history </td>
   <td><a href="https://github.com/banekondic1996/Extended-History---Chrome">Link</a></td>
