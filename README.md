@@ -1,4 +1,4 @@
-<a align="center"  href="https://banekondic1996.github.io">![clippy-white-6-ezgif com-resize](https://github.com/user-attachments/assets/55853b5e-e073-469e-82dd-39a3aae238ea)
+<a align="center"  href="https://banekondic1996.github.io/blog">![clippy-white-6-ezgif com-resize](https://github.com/user-attachments/assets/55853b5e-e073-469e-82dd-39a3aae238ea)
 </a>
 
 Personally using daily and recommending:<br>
