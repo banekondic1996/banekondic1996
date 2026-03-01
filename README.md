@@ -48,6 +48,12 @@ System Monitor, File Sorter (it's amazing), Melo Player (for watching regular vi
   <td><a href="https://github.com/banekondic1996/Edgy-sidebar">Link</a></td>
 </tr>
 <tr>
+  <td><img width="38" height="38" alt="image" src="https://github.com/banekondic1996/Elve-Mail-Client/blob/main/assets/icon256.png?raw=true" /></td>
+  <td> Elve Mail Client </td>
+  <td> Desktop mail client with blocking and AI anaylsis option (not finished) </td>
+  <td><a href="https://github.com/banekondic1996/Elve-Mail-Client">Link</a></td>
+</tr>
+<tr>
   <td><img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/f24a715b-8791-41c8-bb93-8dc40bbd94ae" /></td>
   <td> Elve Desktop (Windows & Linux) </td>
   <td> Desktop shell for Windows and Linux (not finished) </td>
