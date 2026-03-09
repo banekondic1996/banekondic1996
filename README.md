@@ -102,6 +102,12 @@ System Monitor, File Sorter (it's amazing), Melo Player (for watching regular vi
   <td>Human gene modeler - 3D Human Trait Visualizer (Concept!!!)</td>
   <td><a href="https://github.com/banekondic1996/Symbio3d">Link</a></td>
 </tr>
+  <tr>
+  <td><img width="32" height="32" alt="Symbio3D" src="https://github.com/banekondic1996/Attention-discapture-android-app/blob/main/attention_discapture.png?raw=true" /></td> 
+  <td> Attention Discapture (Android)</td>
+  <td>It screenshots the app, before the feed refreshes.. I hate that, so I made app I will use personally</td>
+  <td><a href="https://github.com/banekondic1996/Attention-discapture-android-app">Link</a></td>
+</tr>
 </table>
 
 **Hidden or not yet started projects:**
