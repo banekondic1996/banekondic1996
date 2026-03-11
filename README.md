@@ -2,7 +2,7 @@
 </a>
 
 Personally using daily and recommending:<br>
-System Monitor, File Sorter (it's amazing), Melo Player (for watching regular videos), Extended History extension <br><br>
+System Monitor, File Sorter (it's amazing), Melo Player (for watching regular videos), Extended History extension, Attention Discapture (Android) <br><br>
 **Some projects:** <br>
 <table>
   <tr><th></th><th>Name</th><th>Description</th><th></th></tr>
