@@ -38,7 +38,7 @@ System Monitor, File Sorter (it's amazing), Melo Player (for watching regular vi
 <tr>
   <td><img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/f55e11be-1ae7-4743-bd32-ac46a8e6dc57" /></td>
   <td> Melo Media Player </td> 
-  <td> Media Player for Windows and Linux that can also trim and convert videos </td>
+  <td> Media Player for Windows and Linux that can also trim and convert videos  (not vibe coded, made with my brain, needs new features and fixes)</td>
   <td><a href="https://github.com/banekondic1996/Melo-MediaPlayer">Link</a></td>
 </tr>
       <tr>
