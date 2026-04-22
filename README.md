@@ -74,11 +74,16 @@ System Monitor, File Sorter (it's amazing), Melo Player (for watching regular vi
 </tr>
   <tr>
   <td><img width="38" height="38" alt="imageView2" src="https://github.com/banekondic1996/Extended-History---Chrome/blob/main/icons/icon128.png" /></td>
-  <td> Extended History - Chrome</td>
+  <td> Extended History - Chrome/Firefox</td>
   <td> Chrome extension for better history view + storing more then 90 days of history </td>
   <td><a href="https://github.com/banekondic1996/Extended-History---Chrome">Link</a></td>
 </tr>
-  
+    <tr>
+  <td><img width="38" height="38" alt="imageView2" src="https://github.com/banekondic1996/Extended-Page-Chrome/blob/main/icons/icon128r.png?raw=true" /></td>
+  <td> Extended Page - Chrome/Firefox</td>
+  <td> Chrome extension that replaces new tab homepage with fancy one</td>
+  <td><a href="https://github.com/banekondic1996/Extended-Page-Chrome">Link</a></td>
+</tr>
 </table>
 
 **Not relavant:**
