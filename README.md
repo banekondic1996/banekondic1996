@@ -1,10 +1,14 @@
 <a align="center"  href="https://banekondic1996.github.io/">![clippy-white-6-ezgif com-resize](https://github.com/user-attachments/assets/55853b5e-e073-469e-82dd-39a3aae238ea)
 </a>
+**Discord server:**
+<a href='https://discord.gg/hCDcNn6CT7'>Link</a> </br> </br>
+**Personally using daily and recommending:**</br>
+System Monitor, File Sorter (it's amazing), Melo Player (for watching regular videos), Extended History extension, Attention Discapture (Android) </br>
 
-**Personally using daily and recommending:**<br>
-System Monitor, File Sorter (it's amazing), Melo Player (for watching regular videos), Extended History extension, Attention Discapture (Android) <br><br>
 **If you want to support this developer you can donate USDT on BNB address:**<br>
 <pre>0x86dd33f283326c781a97ab293eed96a17afd965b</pre>
+
+
 
 **Some projects:** <br>
 <table>
