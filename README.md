@@ -1,13 +1,13 @@
 <table align="center" border="0">
   <tr>
     <td align="center">
-      <img width="38" height="38" alt="blog" src="https://github.com/user-attachments/assets/3176935d-f348-4d07-bdd1-c313df91886b" />
+      <img width="26" height="26" alt="blog" src="https://github.com/user-attachments/assets/3176935d-f348-4d07-bdd1-c313df91886b" />
     </td>
     <td align="center">Personal Blog</td>
     <td align="center"><a href="https://banekondic1996.github.io/">Link</a></td>
     <td width="30"></td>
     <td align="center">
-      <img width="38" height="38" alt="discord" src="https://github.com/user-attachments/assets/a12f48ad-b4cf-4e5c-9498-8bf6fb76eadd" />
+      <img width="26" height="26" alt="discord" src="https://github.com/user-attachments/assets/a12f48ad-b4cf-4e5c-9498-8bf6fb76eadd" />
     </td>
     <td align="center">Discord</td>
     <td align="center"><a href="https://discord.gg/hCDcNn6CT7">Link</a></td>
