@@ -5,7 +5,7 @@
     </td>
     <td align="center">Personal Blog</td>
     <td align="center"><a href="https://banekondic1996.github.io/">Link</a></td>
-    <td width="30"></td>
+    <td width="30">-</td>
     <td align="center">
       <img width="26" height="26" alt="discord" src="https://github.com/user-attachments/assets/a12f48ad-b4cf-4e5c-9498-8bf6fb76eadd" />
     </td>
