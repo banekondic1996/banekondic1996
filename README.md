@@ -1,13 +1,29 @@
-<a align="center"  href="https://banekondic1996.github.io/">![clippy-white-6-ezgif com-resize](https://github.com/user-attachments/assets/55853b5e-e073-469e-82dd-39a3aae238ea)
-</a>
-**Discord server:**
-<a href='https://discord.gg/hCDcNn6CT7'>Link</a> </br> </br>
-**Personally using daily and recommending:**</br>
+<table align="center" border="0">
+  <tr>
+    <td align="center">
+      <img width="38" height="38" alt="blog" src="https://github.com/user-attachments/assets/3176935d-f348-4d07-bdd1-c313df91886b" />
+    </td>
+    <td align="center">Personal Blog</td>
+    <td align="center"><a href="https://banekondic1996.github.io/">Link</a></td>
+    <td width="30"></td>
+    <td align="center">
+      <img width="38" height="38" alt="discord" src="https://github.com/user-attachments/assets/a12f48ad-b4cf-4e5c-9498-8bf6fb76eadd" />
+    </td>
+    <td align="center">Discord</td>
+    <td align="center"><a href="https://discord.gg/hCDcNn6CT7">Link</a></td>
+  </tr>
+</table>
+
+<div align="center">
+  
+**Personally using daily and recommending:** </br>
 System Monitor, File Sorter (it's amazing), Melo Player (for watching regular videos), Extended History extension, Attention Discapture (Android) </br>
-
-**If you want to support this developer you can donate USDT on BNB address:**<br>
+</div>
+<div align="center">
+  
+**If you want to support this developer you can donate USDT on BNB address:** <br>
 <pre>0x86dd33f283326c781a97ab293eed96a17afd965b</pre>
-
+</div>
 
 
 **Some projects:** <br>
