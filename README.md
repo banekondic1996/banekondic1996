@@ -1,16 +1,3 @@
-
-
-<div align="center">
-  
-**Personally using daily and recommending:** </br>
-System Monitor, File Sorter (it's amazing), Melo Player (for watching regular videos), Extended History extension, Attention Discapture (Android) </br>
-</div>
-<div align="center">
-  
-**If you want to support this developer you can donate USDT on BNB address:** <br>
-<pre>0x86dd33f283326c781a97ab293eed96a17afd965b</pre>
-</div>
-
 <table align="center" border="0">
   <tr>
     <td align="center">
@@ -26,6 +13,18 @@ System Monitor, File Sorter (it's amazing), Melo Player (for watching regular vi
     <td align="center"><a href="https://discord.gg/hCDcNn6CT7">Link</a></td>
   </tr>
 </table>
+
+<div align="center">
+  
+**Personally using daily and recommending:** </br>
+System Monitor, File Sorter (it's amazing), Melo Player (for watching regular videos), Extended History extension, Attention Discapture (Android) </br>
+</div>
+<div align="center">
+  
+**If you want to support this developer you can donate USDT on BNB address:** <br>
+<pre>0x86dd33f283326c781a97ab293eed96a17afd965b</pre>
+</div>
+
 
 **Some projects:** <br>
 <table>
